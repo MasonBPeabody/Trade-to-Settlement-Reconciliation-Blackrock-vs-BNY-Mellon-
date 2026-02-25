@@ -1,2 +1,2 @@
-# Trade-to-Settlement-Reconciliation-Blackrock-vs-BNY-Mellon-
+# Trade-to-Settlement-Reconciliation-Blackrock-vs-BNY-Mellon (SQL Base)-
 Trades captured in OMS must match what the custodian/prime shows for settlement (date, amount, currency, SSI).
